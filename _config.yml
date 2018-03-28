@@ -100,9 +100,9 @@ author:
   name             : "Arrow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We all like a bit of the Internet of Things Pie."
-  location         : "Reading, UK"
+  location         : "Europe"
   email            :
-  uri              :
+  uri              :  "https://arrowiot.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
